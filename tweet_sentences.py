@@ -24,7 +24,6 @@ sentences = [
     "I'm an idea man. I thrive on enthusiasm.",
     "I'm not a hero. I'm a high-functioning moron.",
     "I'm not just the best boss. I am the best boss.",
-    "I'm not superstitious, but I am a little stitious.",
     "I talk a lot, so I've learned to just tune myself out.",
     "I'm running away from my responsibilities, and it feels good.",
     "I'm an early bird and I'm a night owl, so I'm wise and I have worms.",
